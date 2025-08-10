@@ -64,8 +64,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## Author
 
 Written by **Kimathi Sedegah**
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+GitHub: [https://github.com/sedegah](https://github.com/sedegah)
 
 ---
-
-Do you want me to also include **build instructions** so someone could package it themselves into a `.deb`? That’s often useful for open-source tools.
