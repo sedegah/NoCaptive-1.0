@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 nocaptive - A simple captive portal detection tool for the terminal.
 
@@ -16,7 +15,7 @@ import sys
 import requests
 
 DEFAULT_URL = "http://neverssl.com"
-EXPECTED_PHRASE = "NeverSSL"  # Change if using your own site
+EXPECTED_PHRASE = "NeverSSL"  
 
 
 def check_captive_portal(url):
