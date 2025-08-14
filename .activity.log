@@ -11,3 +11,4 @@
 // Improve multi-network scanning 1755094772
 // Fix false-positive detection bug 1755181143
 // Add quiet mode flag 1755181143
+// Update help command output 1755181143
