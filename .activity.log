@@ -15,3 +15,4 @@
 // Fix false-positive detection bug 1755181143
 // Improve captive portal detection 1755181143
 // Improve timeout handling 1755216734
+// Update help command output 1755216734
