@@ -20,3 +20,4 @@
 // Improve multi-network scanning 1755267514
 // Improve timeout handling 1755267514
 // Improve captive portal detection 1755267514
+// Refactor network check logic 1755267514
