@@ -32,3 +32,4 @@
 // Refactor network check logic 1755353757
 // Add IPv6 support 1755353757
 // Enhance DNS resolution speed 1755353757
+// Add quiet mode flag 1755353757
