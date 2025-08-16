@@ -30,3 +30,4 @@
 // Fix false-positive detection bug 1755353757
 // Refactor status output formatting 1755353757
 // Refactor network check logic 1755353757
+// Add IPv6 support 1755353757
