@@ -34,3 +34,4 @@
 // Enhance DNS resolution speed 1755353757
 // Add quiet mode flag 1755353757
 // Improve multi-network scanning 1755440185
+// Improve timeout handling 1755440185
