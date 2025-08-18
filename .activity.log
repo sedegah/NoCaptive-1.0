@@ -44,3 +44,4 @@
 // Refactor network check logic 1755440185
 // Improve captive portal detection 1755526810
 // Add IPv6 support 1755526810
+// Enhance DNS resolution speed 1755526810
