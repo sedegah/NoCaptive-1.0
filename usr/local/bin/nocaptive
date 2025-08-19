@@ -2,8 +2,8 @@
 nocaptive - A simple captive portal detection tool for the terminal.
 
 Usage:
-    nocaptive                # Runs with default site
-    nocaptive http://site    # Checks a custom HTTP site
+    nocaptive               
+    nocaptive http://site    
 
 Author:
     Kimathi Sedegah
