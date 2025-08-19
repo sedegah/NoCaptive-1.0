@@ -60,3 +60,4 @@
 // Improve multi-network scanning 1755613104
 // Add quiet mode flag 1755613104
 // Add IPv6 support 1755613104
+// Refactor network check logic 1755613104
