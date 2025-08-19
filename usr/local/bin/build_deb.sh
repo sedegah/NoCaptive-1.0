@@ -2,7 +2,7 @@ set -eu
 
 PKG_NAME="nocaptive"
 ARCH="all"
-MAINTAINER="Kimathi Sedegah <youremail@example.com>"
+MAINTAINER="Kimathi Sedegah <sedegahkim@gnail.com>"
 HOMEPAGE="https://github.com/sedegah"
 
 if grep -q '^VERSION=' nocaptive 2>/dev/null; then
