@@ -62,3 +62,4 @@
 // Add IPv6 support 1755613104
 // Refactor network check logic 1755613104
 // Fix false-positive detection bug 1755613104
+// Improve captive portal detection 1755699552
