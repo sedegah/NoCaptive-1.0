@@ -77,3 +77,4 @@
 // Update help command output 1755872281
 // Fix false-positive detection bug 1755872281
 // Refactor status output formatting 1755872281
+// Refactor network check logic 1755872281
