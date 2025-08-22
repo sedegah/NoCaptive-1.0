@@ -74,3 +74,4 @@
 // Improve timeout handling 1755872281
 // Add quiet mode flag 1755872281
 // Fix false-positive detection bug 1755872281
+// Update help command output 1755872281
