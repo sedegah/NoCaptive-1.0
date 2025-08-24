@@ -88,3 +88,4 @@
 // Improve captive portal detection 1755958503
 // Improve multi-network scanning 1755958503
 // Improve multi-network scanning 1756044911
+// Fix false-positive detection bug 1756044911
