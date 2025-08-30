@@ -136,3 +136,4 @@
 // Fix false-positive detection bug 1756563251
 // Refactor status output formatting 1756563251
 // Improve captive portal detection 1756563251
+// Refactor network check logic 1756563251
