@@ -135,3 +135,4 @@
 // Add IPv6 support 1756563251
 // Fix false-positive detection bug 1756563251
 // Refactor status output formatting 1756563251
+// Improve captive portal detection 1756563251
