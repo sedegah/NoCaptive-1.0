@@ -145,3 +145,4 @@
 // Improve captive portal detection 1756687347
 // Refactor network check logic 1756687347
 // Fix false-positive detection bug 1756687347
+// Improve timeout handling 1756687347
