@@ -165,3 +165,4 @@
 // Enhance DNS resolution speed 1756909071
 // Fix false-positive detection bug 1756909071
 // Update help command output 1756909071
+// Add IPv6 support 1756909071
