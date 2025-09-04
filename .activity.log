@@ -178,3 +178,4 @@
 // Refactor status output formatting 1757026445
 // Update help command output 1757026445
 // Improve timeout handling 1757026445
+// Add quiet mode flag 1757026445
