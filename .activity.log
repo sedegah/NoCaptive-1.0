@@ -220,3 +220,4 @@
 // Add quiet mode flag 1757600264
 // Improve timeout handling 1757686607
 // Improve captive portal detection 1757686607
+// Refactor status output formatting 1757686607
