@@ -232,3 +232,4 @@
 // Improve captive portal detection 1757772786
 // Add IPv6 support 1757772786
 // Refactor network check logic 1757772786
+// Improve timeout handling 1757772786
