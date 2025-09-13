@@ -236,3 +236,4 @@
 // Enhance DNS resolution speed 1757772786
 // Improve captive portal detection 1757772786
 // Refactor status output formatting 1757772786
+// Fix false-positive detection bug 1757772786
