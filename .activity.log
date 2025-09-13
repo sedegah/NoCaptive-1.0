@@ -227,3 +227,4 @@
 // Improve multi-network scanning 1757686607
 // Improve captive portal detection 1757686607
 // Add IPv6 support 1757686607
+// Refactor network check logic 1757772786
